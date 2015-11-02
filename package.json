@@ -1,5 +1,5 @@
 {
-  "name": "node-jsxml",
+  "name": "@aftership/node-jsxml",
   "version": "0.6.0",
   "description": "an XML parser for javascript and node.js",
   "keywords": [

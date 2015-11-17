@@ -12,7 +12,7 @@ Install by NPM
 --------------
 
 ```shell
-npm install node-jsxml
+npm install @aftership/node-jsxml
 ```
 
 How to use?
